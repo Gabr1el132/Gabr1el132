@@ -18,5 +18,5 @@ I'm learning C language at university at the moment. Also, i have already coded 
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gabrielfernandesbiro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielfernandesbiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gabrielfernandesbiro@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Gabr1el132?label=follow&style=social)](https://github.com/Gabr1el132/Gabr1el132)

@@ -1,14 +1,14 @@
-## 💜 Olá, meu nome é {seu nome}!
+## Hello, my name is Gabriel
 
-Faça uma breve apresentação sobre você e a sua stack.
+I'm learning C language at university at the moment.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Currently I'm working with memory allocation projects, using structs and other C lang's mechanisms.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Write to me through here or through email.
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>

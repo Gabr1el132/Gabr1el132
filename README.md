@@ -28,4 +28,4 @@ I'm learning C language at university at the moment. Also, i have already coded 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1el132&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation]((https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg))
+![Snake animation]((https://github.com/Gabr1el321/Gabr1el321/blob/output/github-contribution-grid-snake.svg))

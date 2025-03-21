@@ -22,8 +22,3 @@ I'm learning C language at university at the moment. Also, i have already coded 
 [![GitHub](https://img.shields.io/github/followers/Gabr1el132?label=follow&style=social)](https://github.com/Gabr1el132/Gabr1el132)
 
 
-<div>
-<a href="https://github.com/Gabr1el132">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1el132&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1el132&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>

@@ -1,6 +1,6 @@
 ## 👋Hello, my name is Gabriel
 
-I'm learning C language at university at the moment. Also, i have already coded peojects in Python, HTML and CSS.
+I'm learning C language at university at the moment. Also, i have already coded projects in Python, HTML and CSS.
 
 🔭 Currently I'm working with memory allocation projects, also using structs and other C lang's mechanisms.
 
